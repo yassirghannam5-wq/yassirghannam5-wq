@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Yasser Ghannam 👋
 
-<!--
-**yassirghannam5-wq/yassirghannam5-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Digital Development Student | Future Software Engineer
 
-Here are some ideas to get you started:
+🇲🇦 I'm from Morocco.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning React.js and JavaScript.
+- 💻 Interested in Web Development and Artificial Intelligence.
+- 🛠️ Working with HTML, CSS, JavaScript, PHP and MySQL.
+- 🚀 My goal is to become a Software Engineer and create my own company.
+- 📚 Always learning and building new projects.
+
+### 🛠️ Languages and Tools
+
+HTML | CSS | JavaScript | React | PHP | MySQL | Git | GitHub
+
+### 📫 Connect with me
+
+GitHub: https://github.com/yassirghannam5-wq
